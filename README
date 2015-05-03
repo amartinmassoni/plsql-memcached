@@ -1,3 +1,9 @@
 
 memcached pl/sql client
 
+Based in the text protocol defined at https://github.com/memcached/memcached/blob/master/doc/protocol.txt
+
+Commands implemented:
+
+
+
